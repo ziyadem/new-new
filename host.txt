@@ -1,0 +1,9 @@
+DEVELOPMENT 
+    • DB: `postgres://moonup:g4XJi1yUYKaOgs60qJfuQoxNjipNeFeQ@dpg-cmt2dha1hbls73cmrmi0-a.frankfurt-postgres.render.com/development`
+    • API: `https://api.dev.moonup.uz`
+    • DOMAIN: `https://dev.moonup.uz`
+
+PRODUCTION
+    • DB: `postgres://moonup:g4XJi1yUYKaOgs60qJfuQoxNjipNeFeQ@dpg-cmt2dha1hbls73cmrmi0-a.frankfurt-postgres.render.com/production`
+    • API: `https://api.moonup.uz`
+    • DOMAIN: `https://admin.moonup.uz`
